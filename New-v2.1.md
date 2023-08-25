@@ -19,6 +19,6 @@
 "ShowTime": "3",
 "Button": "  عضویت فوری  ",
 "ButtonCancell": "  ",
-"Closure": "false",
+"Closure": "true",
 "Show": "on"
 }
